@@ -48,5 +48,4 @@ Now you are ready to run the program! Launch a Terminal window and navigate to t
 
 Once you enter the URL into Terminal, the program will begin to run! It may take a few minutes depending on how many / how large the playlists are that you are transferring. Upon completion (or even during runtime), you will see changes made to your Spotify Library and playlists. The program is not gauranteed to find all of the songs on Spotify, so after it is finished running you should take a look at the songNotFound.txt file to see which songs were not found or added to the appropriate playlists, and do it manually if possible. 
 
-Feel free to email me with any questions or comments regarding this program at johnb1003@gmail.com
 
