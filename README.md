@@ -1,6 +1,6 @@
 ### iTunesToSpotify.py README ### 
 
-Transfer all playlists from your iTunes Library to your Spotify Library for free! This program & tutorial was written using the following applications and versions: 
+Transfer all playlists from your iTunes Library to your Spotify Library for free! This program (& tutorial) was written using the following applications and versions: 
 - macOS Catalina version 10.15.1
 - Python 3.7.4
 - Microsoft Excel for Mac version 16.35
